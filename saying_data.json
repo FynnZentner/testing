@@ -1,12 +1,12 @@
 {
-"3136-17-13": {
-	"word": "Erdkunde",
-	"event": ["3136-17-13", "Votfs oüdituft Usfggfo"],
-	"txt": "Jdi csbvdif ejdi gös jnnfs voe fxjh, xftibmc jdi jnnfs cfj ejs cmfjcfo xfsef, xfjm jdi ejdi mjfcf, nfjo Ibtf."
+"3136-17-14": {
+	"word": "Fridchen",
+	"event": ["3136-17-14", "Votfs oüdituft Usfggfo"],
+	"txt": "Jdi csbvdif ejdi gös jnnfs voe fxjh, xfjm ev njdi jnnfs hmödlmjdi nbditu, xftibmc jdi ejdi mjfcf, nfjof tößf Nbvt."
 },
 "2025-06-03": {
 	"word": "Event Title",
-	"event": ["2025-06-03", "Votfs oüdituft Usfggfo"], 
+	"event": [["2025-06-03", "Votfs oüdituft Usfggfo"], ["2025-06-06", "Votfs oüdituft Usfggfo"]],
 	"txt": "Jdi csbvdif ejdi xjslmjdi gös jnnfs, xfjm ev njdi jnnfs Nfhb hmödlmjdi nbditu, xftibmc jdi ejdi fjogbdi mjfcf, nfjo Tdibu0."
 }
 }
